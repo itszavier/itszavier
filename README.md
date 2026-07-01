@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Imani Brown and I'm a Full Stack Web Developer</h1>
+<h1 align="left">Hi 👋! My name is Imani Brown and I'm a Software Developer</h1>
 
 
 
